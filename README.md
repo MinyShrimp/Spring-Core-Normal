@@ -67,6 +67,10 @@
 * 자동, 수동의 올바른 실무 운영 기준
 
 ## [빈 생명주기 콜백](./강의/7강)
+* 빈 생명주기 콜백 시작
+* 인터페이스 InitializingBean, DisposableBean
+* 빈 등록 초기화, 소멸 메서드
+* 애노테이션 @PostConstruct, @PreDestroy
 
 ## [스프링 컨테이너와 스프링 빈](./강의/8강)
 
